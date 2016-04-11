@@ -1,4 +1,4 @@
-name: antoniodepalma
+name: Antonio De Palma
 favicon: null
 layout_spectrum: 0.40448544756509364
 typography_spectrum: 0.04280144418589771
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8115785440895706
+  brandStrength: 0.3125
   lightness: 0.604694921290502
   saturation: 0.7939277710393071
   rhythmicContrast: 0.4501144993118942
